@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">SafeSpace</string>
+    <string name="about_icon_description">About the app icon</string>
+    <string name="about_label">About</string>
+    <string name="awareness_label">Mental Health Awareness</string>
+    <string name="awareness_label1">Sexual Health Awareness</string>
+    <string name="discussion_label">Discussion Panel</string>
+    <string name="helpful_label">Some helpful Links</string>
+    <string name="mental_health">What is mental health?</string>
+    <string name="des">Mental health includes our emotional, psychological, and social well-being. It affects how we think, feel, and act. It also helps determine how we handle stress, relate to others, and make choices. Mental health is important at every stage of life, from childhood and adolescence through adulthood. Many factors contribute to mental health problems, including:</string>
+   <string name="line1">
+       1. Biological factors, such as genes or brain chemistry
+   </string>
+    <string name="line2">
+       2. Life experiences, such as trauma or abuse
+   </string>
+    <string name="line3">
+       3. Family history of mental health problems
+   </string>
+    <string name="lastline">Mental health problems are common but help is available. </string>
+
+    <string name="m1header">Myth: Mental health problems does not affect me</string>
+    <string name="m1content">Fact: A report by the World Health Organisation (WHO) revealed that 7.5 per cent of the Indian population suffers from some form of mental disorder. Mental illnesses constitute one-sixth of all health-related disorders and India accounted for nearly 15% of the global mental, neurological and substance abuse disorder burden.  </string>
+
+    <string name="m2header">Myth: Children do not experience mental health problems.</string>
+    <string name="m2content">Fact: Even very young children may show early warning signs of mental health concerns. These mental health problems are often clinically diagnosable, and can be a product of the interaction of biological, psychological, and social factors.
+
+        Half of all mental health disorders show first signs before a person turns 14 years old, and three quarters of mental health disorders begin before age 24.
+    </string>
+
+    <string name="m3header">Myth: People with mental health problems are violent and unpredictable.</string>
+    <string name="m3content">Fact: The vast majority of people with mental health problems are no more likely to be violent than anyone else. Most people with mental illness are not violent and only 3%–5% of violent acts can be attributed to individuals living with a serious mental illness. In fact, people with severe mental illnesses are over 10 times more likely to be victims of violent crime than the general population. </string>
+
+   <string name="m4header">Myth: People with mental health needs, even those who are managing their mental illness, cannot tolerate the stress of holding down a job.</string>
+    <string name="m4content">Fact: People with mental health problems are just as productive as other employees. Employers who hire people with mental health problems report good attendance and punctuality as well as motivation, good work, and job tenure on par with or greater than other employees.</string>
+
+    <string name="m5header">Myth: Personality weakness or character flaws cause mental health problems. People with mental health problems can snap out of it if they try hard enough.</string>
+<string name="m5content">Fact: Mental health problems have nothing to do with being lazy or weak and many people need help to get better. </string>
+
+   <string name="m6header">Myth: There is no hope for people with mental health problems. Once a friend or family member develops mental health problems, he or she will never recover.</string>
+   <string name="m6content">Fact: Studies show that people with mental health problems get better and many recover completely. Recovery refers to the process in which people are able to live, work, learn, and participate fully in their communities. There are more treatments, services, and community support systems than ever before, and they work.</string>
+
+ <string name="m7header">Myth: Therapy and self-help are a waste of time. Why bother when you can just take a pill?</string>
+<string name="m7content">Fact: Treatment for mental health problems varies depending on the individual and could include medication, therapy, or both. </string>
+
+<string name="m8header">Myth: I cannot do anything for a person with a mental health problem.</string>
+    <string name="m8content">Friends and loved ones can make a big difference. Only 44% of adults with diagnosable mental health problems and less than 20% of children and adolescents receive needed treatment. </string>
+
+<string name="m9header">Myth: Prevention does not work. It is impossible to prevent mental illnesses.</string>
+<string name="m9content">Prevention of mental, emotional, and behavioral disorders focuses on addressing known risk factors such as exposure to trauma that can affect the chances that children, youth, and young adults will develop mental health problems.</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="mentalHealth">Mental Health</string>
+    <string name="sexualHealth">Sexual Health</string>
+    <string name="addYourPost">Add Your Thoughts</string>
+    <string name="title_activity_mental_health_awareness">MentalHealthAwareness</string>
+    <string name="tab_text_1">Description</string>
+    <string name="tab_text_2">Myths</string>
+    <string name="tab_text_3">Prevention</string>
+</resources>

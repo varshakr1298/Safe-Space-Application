@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/aboutFragment"
+        android:title="@string/about_label" />
+    <item
+        android:id="@+id/action_titleFragment_to_mentalHealthAwareness2"
+        android:title="@string/awareness_label" />
+    <item
+        android:id="@+id/discussionFragment"
+        android:title="@string/discussion_label" />
+    <item
+        android:id="@+id/linksFragment2"
+        android:title="@string/helpful_label" />
+    <item
+        android:id="@+id/sexHealthAwareness"
+        android:title="@string/awareness_label1" />
+</menu>

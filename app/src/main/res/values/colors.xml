@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="colorPrimary" tools:ignore="ReferenceType">@drawable/theme_color</color>
+    <color name="colorPrimary1">#8ec5fc</color>
+    <color name="colorPrimaryDark">#e0c3fc</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="startColor">#e0c3fc</color>
+    <color name="endColor">#8ec5fc</color>
+    <color name="linearcolor1">#c2f0fc</color>
+    <color name="linearcolor2">#ffe6eb</color>
+    <color name="bcolor">#dcd6f7</color>
+
+</resources>

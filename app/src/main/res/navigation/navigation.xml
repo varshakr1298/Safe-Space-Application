@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation"
+    app:startDestination="@id/titleFragment">
+
+    <fragment
+        android:id="@+id/titleFragment"
+        android:name="com.example.mentalhealth.TitleFragment"
+        android:label="@string/app_name"
+        tools:layout="@layout/fragment_title">
+        <action
+            android:id="@+id/action_titleFragment_to_linksFragment2"
+            app:destination="@id/linksFragment2" />
+        <action
+            android:id="@+id/action_titleFragment_to_discussionFragment"
+            app:destination="@id/discussionFragment"
+            app:popUpTo="@id/titleFragment" />
+        <action
+            android:id="@+id/action_titleFragment_to_sexHealthAwareness"
+            app:destination="@id/sexHealthAwareness" />
+        <action
+            android:id="@+id/action_titleFragment_to_mentalHealthAwareness2"
+            app:destination="@id/mentalHealthAwareness" />
+    </fragment>
+    <fragment
+        android:id="@+id/aboutFragment"
+        android:name="com.example.mentalhealth.AboutFragment"
+        android:label="@string/about_label"
+        tools:layout="@layout/fragment_about" />
+    <fragment
+        android:id="@+id/linksFragment2"
+        android:name="com.example.mentalhealth.LinksFragment"
+        android:label="Helpful Contacts"
+        tools:layout="@layout/fragment_links" />
+    <fragment
+        android:id="@+id/discussionFragment"
+        android:name="com.example.mentalhealth.DiscussionFragment"
+        android:label="Discussion"
+        tools:layout="@layout/fragment_discussion" >
+        <action
+            android:id="@+id/action_discussionFragment_to_addNewFragment"
+            app:destination="@id/addNewFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/addNewFragment"
+        android:name="com.example.mentalhealth.AddNewFragment"
+        android:label="New Post"
+        tools:layout="@layout/fragment_add_new" >
+        <action
+            android:id="@+id/action_addNewFragment_to_discussionFragment"
+            app:destination="@id/discussionFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/sexHealthAwareness"
+        android:name="com.example.mentalhealth.SexHealthAwareness"
+        android:label="SexHealthAwareness"
+        tools:layout="@layout/fragment_sex_health_awareness"/>
+    <activity
+        android:id="@+id/mentalHealthAwareness"
+        android:name="com.example.mentalhealth.MentalHealthAwareness"
+        android:label="activity_mental_health_awareness"
+        tools:layout="@layout/activity_mental_health_awareness" />
+</navigation>
