@@ -19,3 +19,5 @@ This four main sections of this app are:
 1. https://www.mentalhealth.gov/basics/what-is-mental-health
 
 2. https://www.iol.co.za/lifestyle/love-sex/sex/20-things-we-all-need-to-know-about-sex-11329888
+
+3. https://devfolio.co/submissions/safespace
