@@ -21,3 +21,12 @@ This four main sections of this app are:
 2. https://www.iol.co.za/lifestyle/love-sex/sex/20-things-we-all-need-to-know-about-sex-11329888
 
 3. https://devfolio.co/submissions/safespace
+
+## Technologies Used
+
+Android Studio, Koltlin, Room Database
+
+## Screenshots
+
+<img src="images/WhatsApp Image 2020-06-21 at 4.39.32 PM.jpeg" width="250" height="450"> <img src="images/WhatsApp Image 2020-06-21 at 4.43.12 PM.jpeg" width="250" height="450"> <img src="images/WhatsApp Image 2020-06-21 at 4.43.13 PM (1).jpeg" width="250" height="450"> <img src="images/WhatsApp Image 2020-06-21 at 4.43.13 PM.jpeg" width="250" height="450"> <img src="images/WhatsApp Image 2020-06-21 at 4.39.33 PM (1).jpeg" width="250" height="450"> <img src="images/WhatsApp Image 2020-06-21 at 4.39.33 PM.jpeg" width="250" height="450"> <img src="images/WhatsApp Image 2020-06-21 at 4.39.32 PM (1).jpeg" width="250" height="450">
+
